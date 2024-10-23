@@ -1,0 +1,40 @@
+{
+  "Employe": [
+    {
+      "id": "23765",
+      "name": "Lucky",
+      "mail": "abc@gmail.com",
+      "post": {}
+    },
+    {
+      "id": "4394309",
+      "name": "ayushi",
+      "mail": "abc@gmail.com",
+      "post": {}
+    },
+    {
+      "id": "34567",
+      "name": "sanju",
+      "mail": "abc@gmail.com",
+      "post": "java full stak"
+    },
+    {
+      "id": "2343",
+      "name": "sanju chauhan",
+      "mail": "sanjuraja1805@gmail.com",
+      "post": "python"
+    },
+    {
+      "id": "",
+      "name": "ayuhsi",
+      "mail": "0173cs191016@gmail.com",
+      "post": "fdkjflsf"
+    },
+    {
+      "id": "123556",
+      "name": "xyz",
+      "mail": "0173cs191016@gmail.com",
+      "post": "xyz"
+    }
+  ]
+}
